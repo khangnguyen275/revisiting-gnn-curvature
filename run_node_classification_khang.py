@@ -101,7 +101,7 @@ for key in datasets:
                 batch_remove=args.borf_batch_remove,
                 dataset_name=key,
                 graph_index=0)
-        # print(len(dataset.data.edge_type))
+        print(len(dataset.data.edge_type))
     elif args.rewiring == "sdrf_orc":
         curvature_type = "orc"
         dataset.data.edge_index, dataset.data.edge_type = sdrf.sdrf(dataset.data, loops=args.num_iterations, remove_edges=False, 

@@ -42,3 +42,123 @@ RESULTS FOR chameleon (brf):
 average acc: 0.5926973684210526
 plus/minus:  0.019687643847154115
 
+RESULTS FOR cornell (borf_sobolev):
+average acc: 0.4918918918918919
+plus/minus:  0.03133270647824743
+
+RESULTS FOR wisconsin (borf_sobolev):
+average acc: 0.5156862745098039
+plus/minus:  0.030903354203679276
+
+RESULTS FOR texas (borf_sobolev):
+average acc: 0.5405405405405406
+plus/minus:  0.02756226764104207
+
+RESULTS FOR chameleon (borf_sobolev):
+average acc: 0.6144736842105263
+plus/minus:  0.014384360201471014
+
+RESULTS FOR cora (borf_sobolev):
+average acc: 0.879889298892989
+plus/minus:  0.005282040031668439
+
+RESULTS FOR citeseer (borf_sobolev):
+average acc: 0.7375375375375375
+plus/minus:  0.010555886606883037
+
+RESULTS FOR cornell (fosr):
+average acc: 0.4486486486486486
+plus/minus:  0.038374571566051556
+
+RESULTS FOR wisconsin (fosr):
+average acc: 0.5098039215686274
+plus/minus:  0.02716942443245298
+
+RESULTS FOR texas (fosr):
+average acc: 0.5405405405405406
+plus/minus:  0.04457411487154226
+
+RESULTS FOR chameleon (fosr):
+average acc: 0.6109649122807017
+plus/minus:  0.014389708541570862
+
+RESULTS FOR cora (fosr):
+average acc: 0.8824723247232473
+plus/minus:  0.005114396468637244
+
+RESULTS FOR citeseer (fosr):
+average acc: 0.7357357357357357
+plus/minus:  0.005338254905294649
+
+RESULTS FOR cornell (borf_sobolev):
+average acc: 0.46756756756756757
+plus/minus:  0.03336497159353721
+
+RESULTS FOR wisconsin (borf_sobolev):
+average acc: 0.49607843137254903
+plus/minus:  0.024833161096451093
+
+RESULTS FOR cornell (borf_sobolev):
+average acc: 0.4756756756756757
+plus/minus:  0.033496072183415486
+
+RESULTS FOR texas (borf_sobolev):
+average acc: 0.5027027027027027
+plus/minus:  0.04470502297975207
+
+RESULTS FOR wisconsin (borf_sobolev):
+average acc: 0.49411764705882344
+plus/minus:  0.022044657760870893
+
+RESULTS FOR texas (borf_sobolev):
+average acc: 0.508108108108108
+plus/minus:  0.030385879616335557
+
+RESULTS FOR chameleon (borf_sobolev):
+average acc: 0.6160087719298246
+plus/minus:  0.012566382674831962
+
+RESULTS FOR cora (borf_sobolev):
+average acc: 0.870110701107011
+plus/minus:  0.007272275442701115
+
+RESULTS FOR citeseer (borf_sobolev):
+average acc: 0.741141141141141
+plus/minus:  0.006568275370326639
+
+RESULTS FOR cornell (borf_sobolev):
+average acc: 0.45675675675675675
+plus/minus:  0.03856445185240425
+
+RESULTS FOR wisconsin (borf_sobolev):
+average acc: 0.49215686274509807
+plus/minus:  0.01704867852492875
+
+RESULTS FOR texas (borf_sobolev):
+average acc: 0.5135135135135135
+plus/minus:  0.03243243243243242
+
+RESULTS FOR chameleon (borf_sobolev):
+average acc: 0.6133771929824562
+plus/minus:  0.011555165636104425
+
+RESULTS FOR cora (borf_sobolev):
+average acc: 0.8715867158671585
+plus/minus:  0.006867831807605509
+
+RESULTS FOR citeseer (borf_sobolev):
+average acc: 0.7292792792792792
+plus/minus:  0.007561964654477152
+
+RESULTS FOR cornell (borf_sobolev):
+average acc: 0.47027027027027024
+plus/minus:  0.03837457156605155
+
+RESULTS FOR wisconsin (borf_sobolev):
+average acc: 0.5392156862745099
+plus/minus:  0.05150559033946548
+
+RESULTS FOR texas (borf_sobolev):
+average acc: 0.5027027027027028
+plus/minus:  0.030768106963800435
+
